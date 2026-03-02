@@ -39,6 +39,12 @@ I'm working on a series of PHP examples. For each h2 below, I want you to create
 - if
 - else
 - elseif
+- Alternative syntax (if (): ... endif;)
+- Ternary operator
+- Null coalescing operator
+- Null coalescing assignment
+- match expression
+- switch
 
 ## Loops
 - for
