@@ -5,13 +5,11 @@
 
 // String interpolation allows embedding variables directly into double-quoted strings
 
-$name = "Charlie";
+$name = "John";
 $age = 25;
-$city = "Boston";
 
 echo "My name is $name\n";
 echo "I am $age years old\n";
-echo "I live in $city\n";
 
 $person = ["name" => "Diana", "job" => "Engineer"];
 echo "Name: {$person['name']}, Job: {$person['job']}\n";

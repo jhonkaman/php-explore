@@ -9,11 +9,5 @@ function greet() {
     echo "Hello, World!\n";
 }
 
-function sayGoodbye() {
-    echo "Goodbye!\n";
-}
-
-greet();
-sayGoodbye();
 greet();
 ?>

@@ -5,8 +5,8 @@
 
 // The break statement exits a loop prematurely
 
-for ($i = 1; $i <= 10; $i++) {
-    if ($i == 5) {
+for ($i = 1; $i <= 5; $i++) {
+    if ($i == 3) {
         echo "Breaking at " . $i . "\n";
         break;
     }

@@ -6,12 +6,6 @@
 // The concatenation assignment operator (.=) appends a string to an existing variable
 
 $greeting = "Hello";
-$greeting .= ", ";
-$greeting .= "World";
+$greeting .= " World";
 echo $greeting . "\n";
-
-$message = "PHP";
-$message .= " is ";
-$message .= "awesome";
-echo $message . "\n";
 ?>

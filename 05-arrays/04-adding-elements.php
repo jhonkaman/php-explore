@@ -8,11 +8,13 @@
 $fruits = ["Apple", "Banana"];
 
 $fruits[2] = "Cherry";
-echo "Added Cherry: " . $fruits[2] . "\n";
+print_r($fruits);
 
 $fruits[] = "Date";
+print_r($fruits);
 echo "Added Date at index: " . (count($fruits) - 1) . "\n";
 
+// Associative
 $person = ["name" => "Eve"];
 $person["age"] = 28;
 $person["email"] = "eve@example.com";

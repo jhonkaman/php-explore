@@ -13,6 +13,7 @@ echo "Updated first element: " . $numbers[0] . "\n";
 $numbers[2] = 35;
 echo "Updated third element: " . $numbers[2] . "\n";
 
+// Associative
 $person = ["name" => "Frank", "age" => 35];
 
 $person["name"] = "Franklin";

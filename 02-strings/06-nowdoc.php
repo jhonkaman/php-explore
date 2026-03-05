@@ -5,13 +5,12 @@
 
 // Nowdoc is like Heredoc but treats the string as single-quoted, so variables are NOT interpolated
 
-$name = "Bob";
-$price = 100;
+$name = "John";
+$age = 30;
 
 $text = <<<'EOT'
-The name $name and price $price are NOT interpolated.
+The name $name and age $age are NOT interpolated.
 This is a multi-line string using Nowdoc syntax.
-Variables remain as literal text: $name, $price
 EOT;
 
 echo $text . "\n";

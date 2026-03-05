@@ -15,5 +15,5 @@ function greetPerson($name) {
 }
 
 add(5, 3);
-greetPerson("Alice");
+greetPerson("John");
 ?>

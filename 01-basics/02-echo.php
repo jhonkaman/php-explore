@@ -5,7 +5,7 @@
 
 // The echo statement outputs text to the console without a return value
 
-echo "Hello, World!\n";
-echo "This is printed to the console\n";
+echo "Hello World\n";
+
 echo "Echo can take multiple parameters: ", "Hello", " ", "PHP\n";
 ?>

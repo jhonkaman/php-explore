@@ -15,6 +15,7 @@ foreach ($fruits as $key => $fruit) {
 
 echo "\n";
 
+// Associative
 $person = ["name" => "Grace", "age" => 28, "city" => "Seattle"];
 
 unset($person["age"]);

@@ -6,10 +6,10 @@
 // Associative arrays use key-value pairs instead of numeric indices
 
 $person = array("name" => "John", "age" => 30, "city" => "New York");
-$car = ["brand" => "Toyota", "model" => "Camry", "year" => 2022];
+echo $person["name"] . "\n";
 
-echo "Name: " . $person["name"] . "\n";
-echo "Car brand: " . $car["brand"] . "\n";
+$car = ["brand" => "Toyota", "model" => "Camry", "year" => 2022];
+echo $car["brand"] . "\n";
 
 $person["email"] = "john@example.com";
 echo "Email: " . $person["email"] . "\n";

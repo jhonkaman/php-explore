@@ -6,6 +6,7 @@
 // Comments are used to explain code and are ignored by the PHP parser
 
 // This is a single-line comment
+
 # This is also a single-line comment
 
 /* This is a multi-line comment

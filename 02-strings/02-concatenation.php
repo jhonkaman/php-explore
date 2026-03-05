@@ -6,10 +6,8 @@
 // Concatenation combines multiple strings together using the dot operator
 
 $firstName = "John";
-$lastName = "Doe";
+$lastName = "Smith";
 
 $fullName = $firstName . " " . $lastName;
 echo $fullName . "\n";
-
-echo "Welcome, " . $firstName . "!\n";
 ?>

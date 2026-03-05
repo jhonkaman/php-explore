@@ -20,4 +20,9 @@ $value = 7;
 echo "\nOriginal: " . $value . "\n";
 echo "Pre-decrement (--\$value): " . (--$value) . "\n";
 echo "After: " . $value . "\n";
+// Post-decrement example
+$score = 12;
+echo "\nOriginal: " . $score . "\n";
+echo "Post-decrement (\$score--): " . ($score--) . "\n";
+echo "After: " . $score . "\n";
 ?>

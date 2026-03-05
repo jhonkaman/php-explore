@@ -16,6 +16,6 @@ function getFullName($firstName, $lastName) {
 $result = multiply(4, 5);
 echo "4 * 5 = " . $result . "\n";
 
-$name = getFullName("John", "Doe");
+$name = getFullName("John", "Smith");
 echo "Full name: " . $name . "\n";
 ?>

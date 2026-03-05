@@ -14,10 +14,10 @@ while ($count <= 5) {
 
 echo "\n";
 
-$num = 10;
+$num = 5;
 
 while ($num > 0) {
-    echo "Countdown: " . $num . "\n";
+    echo "Count: " . $num . "\n";
     $num--;
 }
 ?>
