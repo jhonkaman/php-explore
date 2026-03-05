@@ -1,5 +1,5 @@
 I'm working on a series of PHP examples. For each h2 below, I want you to create a folder. In each folder, create 1 PHP file for each item in the list. In each file, create exactly 1 simple example that demonstrates the concept in the list. After finishing 1 item in the list, pause and check in with me before continuing. Add numbers to the file names, like this: 01-create-list.php. Also, create a todo list so I can follow your progress. Start off each file like this:
-```
+```php
 <?php
 // Title
 
@@ -12,11 +12,16 @@ I'm working on a series of PHP examples. For each h2 below, I want you to create
 
 ## Basics
 - comments
-- print to console
+- echo
+- print
 
 ## Strings
 - string variables
 - concatenation
+- concatenation assignment
+- string interpolation
+- heredoc
+- nowdoc
 
 ## Numbers
 - number variables
@@ -28,12 +33,16 @@ I'm working on a series of PHP examples. For each h2 below, I want you to create
 - Indexed arrays
 - Associative arrays
 - Accessing elements
+- Adding elements
+- Updating elements
+- Removing elements
 
 ## Operators
 - arithmetic operators
 - assigment operators
 - comparison operators
 - logical operators
+- increment and decrement
 
 ## Conditionals
 - if
@@ -49,6 +58,9 @@ I'm working on a series of PHP examples. For each h2 below, I want you to create
 ## Loops
 - for
 - while
+- do...while
+- foreach
+- Alternative syntax (for (): ... endfor;, foreach (): ... endforeach;, while (): ... endwhile;)
 - break
 - continue
 
@@ -56,3 +68,4 @@ I'm working on a series of PHP examples. For each h2 below, I want you to create
 - Define function
 - Parameters
 - Return values
+- Default parameters
