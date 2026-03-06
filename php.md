@@ -69,3 +69,33 @@ I'm working on a series of PHP examples. For each h2 below, I want you to create
 - Parameters
 - Return values
 - Default parameters
+
+## Error Handling
+- error types
+- try/catch
+- finally
+- throwing exceptions (throw)
+- Exception class
+- multiple catch blocks
+- custom exceptions
+
+## OOP
+- classes
+- objects
+- properties
+- methods
+- constructor (__construct)
+- destructor (__destruct)
+- visibility (public, protected, private)
+- $this
+- static properties and methods (static)
+- inheritance (extends)
+- method overriding
+- parent access (parent::)
+- abstract classes (abstract)
+- interfaces (interface)
+- traits (trait)
+- constants (const)
+- late static binding (static::)
+- namespaces
+- autoloading (spl_autoload_register)
