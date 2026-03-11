@@ -14,12 +14,4 @@ $fruits[] = "Date";
 print_r($fruits);
 echo "Added Date at index: " . (count($fruits) - 1) . "\n";
 
-// Associative
-$person = ["name" => "Eve"];
-$person["age"] = 28;
-$person["email"] = "eve@example.com";
-
-foreach ($person as $key => $value) {
-    echo $key . ": " . $value . "\n";
-}
 ?>

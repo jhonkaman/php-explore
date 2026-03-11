@@ -15,12 +15,4 @@ foreach ($fruits as $key => $fruit) {
 
 echo "\n";
 
-// Associative
-$person = ["name" => "Grace", "age" => 28, "city" => "Seattle"];
-
-unset($person["age"]);
-echo "After removing age:\n";
-foreach ($person as $key => $value) {
-    echo $key . ": " . $value . "\n";
-}
 ?>
