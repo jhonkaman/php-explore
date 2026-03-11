@@ -12,6 +12,7 @@ foreach ($fruits as $fruit) {
     echo "Fruit: " . $fruit . "\n";
 }
 
+// Associative
 echo "\nAssociative array:\n";
 
 $person = ["name" => "Helen", "age" => 32, "city" => "Portland"];
