@@ -9,11 +9,7 @@ $age = 20;
 $status = ($age >= 18) ? "Adult" : "Minor";
 echo "Status: " . $status . "\n";
 
-$score = 85;
+$score = 45;
 $result = ($score >= 60) ? "Passed" : "Failed";
 echo "Result: " . $result . "\n";
-
-$level = 5;
-$access = ($level > 10) ? "Admin" : (($level > 5) ? "User" : "Guest");
-echo "Access level: " . $access . "\n";
 ?>
