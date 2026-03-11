@@ -1,13 +1,12 @@
 <?php
-// Number Variables
+// Scientific Notation
 
-// Run: php 03-numbers/01-number-variables.php
+// Run: php 03-numbers/02-float.php
 
 // Number variables can store integers and floating-point numbers
 
-$age = 25;
 $price = 19.99;
 
-echo "Age: " . $age . "\n";
 echo "Price: $" . $price . "\n";
+
 ?>
