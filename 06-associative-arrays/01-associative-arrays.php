@@ -1,7 +1,7 @@
 <?php
 // Associative Arrays
 
-// Run: php 05-arrays/02-associative-arrays.php
+// Run: php 06-associative-arrays/02-associative-arrays.php
 
 // Associative arrays use key-value pairs instead of numeric indices
 

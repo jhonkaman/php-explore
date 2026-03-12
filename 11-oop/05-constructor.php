@@ -1,21 +1,21 @@
 <?php
-// Constructor (__construct)
+// Constructor
 
 // Run: php 11-oop/05-constructor.php
 
 // The constructor is a special method called automatically when an object is created
 
-class Book {
-    public $title;
-    public $author;
+class Dog {
+    public $name;
+    public $color;
 
-    public function __construct($title, $author) {
-        $this->title = $title;
-        $this->author = $author;
-        echo "Book created: " . $this->title . "\n";
+    public function __construct($name, $color) {
+        $this->name = $name;
+        $this->color = $color;
+        echo "Dog created: " . $this->name . "\n";
     }
 }
 
-$book = new Book("The Great Gatsby", "F. Scott Fitzgerald");
-echo "Author: " . $book->author . "\n";
+$dog = new Dog("Buddy", "brown");
+echo "Color: " . $dog->color . "\n";
 ?>

@@ -1,7 +1,7 @@
 <?php
 // Integers
 
-// Run: php 03-numbers/01-number-variables.php
+// Run: php 03-numbers/01-int.php
 
 // Number variables can store integers
 $age = 25;

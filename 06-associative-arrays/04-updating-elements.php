@@ -1,7 +1,7 @@
 <?php
 // Updating Elements
 
-// Run: php 05-arrays/05-updating-elements.php
+// Run: php 06-associative-arrays/05-updating-elements.php
 
 // Array elements can be updated by assigning a new value to an existing index or key
 

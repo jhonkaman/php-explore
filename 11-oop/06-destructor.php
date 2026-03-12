@@ -1,5 +1,5 @@
 <?php
-// Destructor (__destruct)
+// Destructor
 
 // Run: php 11-oop/06-destructor.php
 

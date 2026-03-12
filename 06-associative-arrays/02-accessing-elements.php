@@ -1,7 +1,7 @@
 <?php
 // Accessing Elements
 
-// Run: php 05-arrays/03-accessing-elements.php
+// Run: php 06-associative-arrays/03-accessing-elements-associative.php
 
 // Array elements can be accessed by index or key, and can be looped through
 

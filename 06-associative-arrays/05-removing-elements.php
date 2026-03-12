@@ -1,7 +1,7 @@
 <?php
 // Removing Elements
 
-// Run: php 05-arrays/06-removing-elements.php
+// Run: php 06-associative-arrays/06-removing-elements.php
 
 // Elements can be removed from arrays using the unset() function
 

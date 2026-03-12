@@ -1,7 +1,7 @@
 <?php
 // Arithmetic Operators
 
-// Run: php 06-operators/01-arithmetic-operators.php
+// Run: php 03-numbers/04-arithmetic-operators.php
 
 // Arithmetic operators perform mathematical operations on numbers
 

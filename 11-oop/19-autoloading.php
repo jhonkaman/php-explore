@@ -1,5 +1,5 @@
 <?php
-// Autoloading (spl_autoload_register)
+// Autoloading
 
 // Run: php 11-oop/19-autoloading.php
 

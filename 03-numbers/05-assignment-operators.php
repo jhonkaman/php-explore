@@ -1,7 +1,7 @@
 <?php
 // Assignment Operators
 
-// Run: php 06-operators/02-assignment-operators.php
+// Run: php 03-numbers/05-assignment-operators.php
 
 // Assignment operators assign values to variables, and can combine operations
 

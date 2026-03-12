@@ -1,7 +1,7 @@
 <?php
 // Scientific Notation
 
-// Run: php 03-numbers/02-float.php
+// Run: php 03-numbers/03-scientific-notation.php
 
 // Number variables can store integers and floating-point numbers
 

@@ -1,7 +1,7 @@
 <?php
 // Increment and Decrement
 
-// Run: php 06-operators/05-increment-and-decrement.php
+// Run: php 03-numbers/06-increment-and-decrement.php
 
 // Increment (++) and decrement (--) operators increase or decrease a value by 1
 

@@ -1,7 +1,7 @@
 <?php
 // Comparison Operators
 
-// Run: php 06-operators/03-comparison-operators.php
+// Run: php 04-booleans/02-comparison-operators.php
 
 // Comparison operators compare two values and return true or false
 

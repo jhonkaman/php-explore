@@ -1,7 +1,7 @@
 <?php
 // Logical Operators
 
-// Run: php 06-operators/04-logical-operators.php
+// Run: php 04-booleans/03-logical-operators.php
 
 // Logical operators combine boolean values: AND (&&), OR (||), NOT (!)
 

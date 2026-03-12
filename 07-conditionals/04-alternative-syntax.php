@@ -1,7 +1,7 @@
 <?php
 // Alternative Syntax
 
-// Run: php 07-conditionals/04-alternative-syntax.php
+// Run: php 07-conditionals/04-alternative-syntax-conditionals.php
 
 // Alternative syntax for if uses colons and endif instead of braces
 

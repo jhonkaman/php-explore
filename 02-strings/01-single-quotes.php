@@ -1,7 +1,7 @@
 <?php
-// String Variables
+// Single Quotes
 
-// Run: php 02-strings/01-string-variables.php
+// Run: php 02-strings/01-single-quotes.php
 
 // String variables store text values enclosed in quotes
 

@@ -1,5 +1,5 @@
 <?php
-// Visibility (public, protected, private)
+// Visibility
 
 // Run: php 11-oop/07-visibility.php
 

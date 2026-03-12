@@ -1,7 +1,7 @@
 <?php
 // Alternative Syntax
 
-// Run: php 08-loops/07-alternative-syntax.php
+// Run: php 08-loops/07-alternative-syntax-loops.php
 
 // For, foreach, and while loops support alternative syntax with colons and end keywords
 
